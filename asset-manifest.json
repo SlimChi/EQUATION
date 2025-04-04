@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EQUATION/static/css/main.54cde32d.css",
+    "main.js": "/EQUATION/static/js/main.5bde73b6.js",
+    "index.html": "/EQUATION/index.html",
+    "main.54cde32d.css.map": "/EQUATION/static/css/main.54cde32d.css.map",
+    "main.5bde73b6.js.map": "/EQUATION/static/js/main.5bde73b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54cde32d.css",
+    "static/js/main.5bde73b6.js"
+  ]
+}
